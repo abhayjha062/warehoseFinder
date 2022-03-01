@@ -1,3 +1,7 @@
+git clone git@github.com:abhayjha062/warehoseFinder.git or by http 
+
+after clone the repository follow the steps
+
 npm install to install the packages used in react app
 
 
